@@ -2,12 +2,17 @@
 <h3 align="center">🚀 Aspiring Data Scientist | Curious Learner | Passionate About Turning Data into Insight</h3>
 
 <p align="center">
-  Exploring the world of data with curiosity as my fuel — passionately pursuing patterns, insights, and real-world impact.
+  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="150" style="border-radius: 50%;" alt="Profile Avatar"/>
+</p>
+
+<p align="center">
+  <strong>Exploring the world of data with curiosity as my fuel — passionately pursuing patterns, insights, and real-world impact.</strong>
 </p>
 
 ---
 
 ## 🌐 Connect with Me
+
 <p align="center">
   <a href="https://instagram.com/mustaqeem._7" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -26,6 +31,7 @@
 ---
 
 ## 💻 Tech Stack
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -34,7 +40,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mustaqeemuddin7&label=Profile%20Views&color=0e75b6&style=flat" alt="mustaqeemuddin7" />
+  <img src="https://komarev.com/ghpvc/?username=Mustaqeemuddin7&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<!-- Proudly created with ❤️ using GPRM: https://gprm.itsvg.in -->
+<!-- Optional: Add Projects or Achievements section here -->
