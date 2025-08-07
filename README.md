@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mohammed Mustaqeem Uddin</h1>
-<h3 align="center">🚀 Aspiring Data Scientist | Curious Learner | Passionate About Turning Data into Insight</h3>
 
 <p align="center">
   Exploring the world of data with curiosity as my fuel — passionately pursuing patterns, insights, and real-world impact.
@@ -29,12 +28,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mustaqeemuddin7&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <!-- Proudly created with ❤️ using GPRM: https://gprm.itsvg.in -->
