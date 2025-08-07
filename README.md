@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammed Mustaqeem Uddin</h1>
-<h3 align="center">🚀 A Passionate Explorer | Lifelong Learner | Code & Creativity Enthusiast</h3>
+<h3 align="center">🚀 Aspiring Data Scientist | Curious Learner | Passionate About Turning Data into Insight</h3>
 
 <p align="center">
-  Driven by an insatiable curiosity, I thrive on exploring new ideas, embracing challenges, and constantly seeking opportunities to expand my knowledge and skills.
+  Exploring the world of data with curiosity as my fuel — passionately pursuing patterns, insights, and real-world impact.
 </p>
 
 ---
@@ -37,4 +37,4 @@
   <img src="https://komarev.com/ghpvc/?username=Mustaqeemuddin7&label=Profile%20Views&color=0e75b6&style=flat" alt="mustaqeemuddin7" />
 </p>
 
-<!-- Proudly created with ❤️ using GPRM: https://gprm.itsvg.in -->
+
